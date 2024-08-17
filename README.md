@@ -1,16 +1,24 @@
-## Hi there 👋
+## Olá, Eu sou Arthur!
 
-<!--
-**miguellitos/Miguellitos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Hoje eu Trabalho com C e Java
+- 🌱 Estudando C, Java e SQL
+- 📫 Entre em contato no email: arthurvitorino.dev@gmail.com
 
-Here are some ideas to get you started:
+<div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=179 align="center" src="https://github-readme-stats.vercel.app/api?username=miguellitos&theme=github_dark" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=179 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=miguellitos&layout=compact&langs_count=8&card_width=320&theme=github_dark" />
+</a>
+  
+</div>
+<div style="display: inline_block"><cbr>
+<img align="center" alt="Arthur-C" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
+<img align="center" alt="Arthur-Java" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /> 
+<img align="center" alt="Arthur-MySql" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />
+<img align="center" alt="Arthur-HTML" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="center" alt="Arthur-CSS" height="30" width="40" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
